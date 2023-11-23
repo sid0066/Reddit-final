@@ -1,0 +1,61 @@
+a {
+    
+    color: rgb(0, 0, 0);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+     
+}
+body {
+    
+    background-color: black;   
+}
+.a{
+    width: 2pc;
+    border-radius: 50%;
+    
+}
+.page{
+    background-color: white;
+    width: 600px;
+    height: 570px;
+    position: relative;
+    left: 50%;
+    transform: translate(-50%);
+    border-radius: 5%;
+    padding: 2%;
+}
+.page #profile{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+}
+.userinfo{
+    display: flex;
+}
+.userinfo h2{
+    font-size: 15px;
+}
+#logo{
+    width: 75px;
+    margin-left: 350px;
+}
+.username{
+    height: 40px;
+    margin-left: 5px;
+}
+
+video{
+    height:60%;
+     width:100%; display:block; margin:0 auto;
+}
+#c{
+    height: 350px;
+    padding-left: 30%;
+}
+#d{
+    height: 350px;
+    padding-left: 15%;
+}
+#e{
+    height: 350px;
+    padding-left: 15%;
+}
